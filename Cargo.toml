@@ -1,0 +1,12 @@
+[package]
+name = "perlin"
+version = "0.1.0"
+authors = ["Ryan Marcus <ryan@rmarcus.info>"]
+
+[dependencies]
+rand = "0.4"
+image = "0.18.0"
+rayon = "0.9"
+clap = "^2.29.4"
+mktemp = "0.3.1"
+
